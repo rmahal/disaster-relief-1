@@ -1,0 +1,20 @@
+{
+  "name": "disaster-relief",
+  "version": "1.0.0",
+  "description": "Changed again again",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmahal/disaster-relief-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmahal/disaster-relief-1/issues"
+  },
+  "homepage": "https://github.com/rmahal/disaster-relief-1#readme"
+}
